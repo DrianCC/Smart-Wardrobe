@@ -14,14 +14,16 @@ Proyek ini berfokus pada otomatisasi pengeringan pakaian secara efisien dengan m
 
 ## Latar Belakang Masalah
 - Proses pengeringan pakaian umumnya dilakukan dengan menjemur pakaian di bawah terik sinar matahari, metode pengeringan tersebut memakan waktu dan memerlukan sinar matahari yang cukup agar pakaian dapat kering dengan baik.
-- Pakaian yang telah digunakan sekali dan hanya terkena basah hujan atau tumpah air perlu hanya dikeringkan saja, tidak perlu dilakukan pencucian ulang.
+- Pakaian yang telah digunakan sekali dan hanya terkena basah hujan atau tumpah air hanya perlu dikeringkan saja, tidak perlu dilakukan pencucian ulang.
 - Pakaian - pakaian yang telah terkena basah hujan atau tumpah air, perlu digunakan lagi dengan cepat.
 
+## Solusi yang ditawarkan
+
 ## Komponen
-- ESP32S: Sebagai pusat pengendali system.
-- Sensor DHT 22: Sebagai sensor suhu lemari.
-- Sensor Ultrasonik HCSR04: Sebagai sensor ada atau tidaknya objek dalam lemari.
-- PTC Heater 12V: Sebagai pemancar Panas untuk menghangatkan objek dalam lemari. 
-- Fan DC 12V: Sebagai penyebar suhu panas dalam lemari
-- Adaptor 12V: Sebagai sumber daya untuk Fan dan PTC Heater
-- DC-005 Module Socket : Sebagai penyalur tegangan DC dari Adaptor ke rangkaian.
+- **ESP32S**: Sebagai pusat pengendali system.
+- **Sensor DHT 22**: Sebagai sensor suhu lemari.
+- **Sensor Ultrasonik HCSR04**: Sebagai sensor ada atau tidaknya objek dalam lemari.
+- **PTC Heater 12V**: Sebagai pemancar Panas untuk menghangatkan objek dalam lemari. 
+- **Fan DC 12V**: Sebagai penyebar suhu panas dalam lemari
+- **Adaptor 12V**: Sebagai sumber daya untuk Fan dan PTC Heater
+- **DC-005 Module Socket**: Sebagai penyalur tegangan DC dari Adaptor ke rangkaian.
