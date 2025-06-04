@@ -17,7 +17,7 @@ Proyek ini berfokus pada otomatisasi pengeringan pakaian secara efisien dengan m
 - Pakaian yang telah digunakan sekali dan hanya terkena basah hujan atau tumpah air perlu hanya dikeringkan saja, tidak perlu dilakukan pencucian ulang.
 - Pakaian - pakaian yang telah terkena basah hujan atau tumpah air, perlu digunakan lagi dengan cepat.
 
-# Komponen
+## Komponen
 - ESP32S: Sebagai pusat pengendali system.
 - Sensor DHT 22: Sebagai sensor suhu lemari.
 - Sensor Ultrasonik HCSR04: Sebagai sensor ada atau tidaknya objek dalam lemari.
