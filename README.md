@@ -2,12 +2,12 @@
 Final Project Embedded System
 
 ## Anggota Kelompok
-1. Adrian Alessandro Christopher Chandra
-2. Kenichi Amarul Ardi
-3. Timotius Joseph Mahardika Hartono
-4. Muhammad Shafly Syarif Aji Kurnia
-5. Rayhan Sulistyawan
-6. Muhammad Alwen Franzzy
+1. Adrian Alessandro Christopher Chandra - 235150301111020
+2. Kenichi Amarul Ardi - 235150300111014
+3. Timotius Joseph Mahardika Hartono - 235150307111016
+4. Muhammad Shafly Syarif Aji Kurnia - 235150300111021
+5. Rayhan Sulistyawan - 235150301111019
+6. Muhammad Alwen Franzzy - 205150300111003
 
 ## Gambaran Umum
 Proyek ini berfokus pada otomatisasi pengeringan pakaian secara efisien dengan menggunakan sensor, aktuator, dan mikrokontroller ESP32
