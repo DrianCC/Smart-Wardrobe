@@ -37,6 +37,11 @@ Proyek ini berfokus pada otomatisasi pengeringan pakaian secara efisien dengan m
 ## Schematic Rangkaian
 ![Skematik rangkaian projek_fixed fixed fix](https://github.com/user-attachments/assets/8faf7e0f-4962-4909-a241-3378cd5eedcd)
 
+## Alat
+![Smart Wardrobe 1](https://github.com/user-attachments/assets/80a1685e-9fa8-4000-9a71-97fa40aadd56)
+![Smart Wardrobe 3](https://github.com/user-attachments/assets/25a04617-cf5b-4f57-b033-e4a752eb7a66)
+
+
 ## Demo
 - **Setup**    : Pasang semua komponen yang dibutuhkan hingga seperti pada skematik rangkaian, lalu upload kode ke esp32s menggunakan arduino IDE.
 - **Demo**     : Basahkan baju hingga lembab atau sedikit basah, lalu taruh baju tersebut menggunakan gantungan pakaian khusus untuk alat ini, lalu tunggu hingga lampu led mati.
